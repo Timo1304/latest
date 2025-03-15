@@ -16,9 +16,11 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The Project/Mockup is Modularized into components, this is to ensure scalability and maintainability if needed.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+It has been uploaded to my github; find the link at: https://github.com/Timo1304/latest
+
+You can download the files and run locale development by running "npm run dev" in terminal. Unfortunaetly I haven't finished hosting and would update with the hosted version if more time would be permitted.
 
 ## Learn More
 
